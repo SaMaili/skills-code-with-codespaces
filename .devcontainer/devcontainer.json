@@ -1,4 +1,4 @@
 {
-    "name": "Basik Dev Env",
+    "name": "Basik Dev Enviroment",
     "image": "mcr.micorsoft.com/devcontainers/base:debian"
 }
