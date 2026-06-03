@@ -1,5 +1,5 @@
 {
-    "name": "Basik Dev Enviroment",
+    "name": "Basic Dev Enviroment",
     "image": "mcr.micorsoft.com/devcontainers/base:debian",
     "features": {
         "ghcr.io/devcontainers/features/python:1": {
